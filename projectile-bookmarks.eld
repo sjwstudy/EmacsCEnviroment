@@ -1,0 +1,1 @@
+("~/UnixProgramming/" "/srv/note/note-emacs/" "~/.emacs.d/")

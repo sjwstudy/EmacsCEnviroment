@@ -1,0 +1,55 @@
+
+;; ----- smex-history -----
+(
+ compile
+ iimage-mode
+ list-packages
+ helm-mode
+ helm-help
+ c-mode
+ gdb
+)
+
+;; ----- smex-data -----
+(
+ (list-packages . 12)
+ (completion-in-region-mode . 1)
+ (compile . 4)
+ (toggle-tool-bar-mode-from-frame . 2)
+ (toggle-menu-bar-mode-from-frame . 4)
+ (toggle-max-frame . 4)
+ (help-with-tutorial . 13)
+ (package-list-packages . 9)
+ (prelude-update . 1)
+ (text-mode . 2)
+ (fundamental-mode . 2)
+ (gdb . 30)
+ (gdb-many-windows . 10)
+ (tool-bar-mode . 12)
+ (menu-bar-mode . 2)
+ (column-number-mode . 5)
+ (global-linum-mode . 2)
+ (gomoku . 1)
+ (gdb-frame-locals-buffer . 2)
+ (c-mode . 2)
+ (c-mark-function . 2)
+ (which-func-mode . 2)
+ (font-lock-mode . 2)
+ (customize-face . 1)
+ (sp-backward-sexp . 2)
+ (show-paren-mode . 3)
+ (ecb-activate . 8)
+ (elint-current-buffer . 1)
+ (ecb-deactivate . 7)
+ (flycheck-mode . 2)
+ (ggtags-find-tag-dwim . 1)
+ (find-tag . 3)
+ (ggtags-mode . 2)
+ (ggtags-find-reference . 2)
+ (ggtags-global-mode . 2)
+ (helm-help . 2)
+ (helm-mode . 2)
+ (iimage-mode . 1)
+ (org-display-inline-images . 4)
+ (ggtags-update-tags . 1)
+)

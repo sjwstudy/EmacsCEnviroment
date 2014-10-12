@@ -1,0 +1,147 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/srv/note/note-emacs/东阳光工作文档/" . "生产管理系统/")
+ ("/srv/note/note-emacs/" . "东阳光工作文档/")
+ ("/home/ccoder/UnixProgramming/CStudy/ch08/" . "app/")
+ ("/etc/mysql/" . "conf.d/")
+ ("/home/ccoder/UnixProgramming/CStudy/ch06/" . "app/")
+ ("/" . "etc/")
+ ("/home/ccoder/.emacs.d/" . "personal/")
+ ("/home/ccoder/UnixProgramming/CStudy/ch01/" . "src/")
+ ("/home/ccoder/UnixProgramming/CStudy/" . "ch13/")
+ ("/home/ccoder/UnixProgramming/" . "CStudy/")
+ ("/home/ccoder/" . "UnixProgramming/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/ccoder/UnixProgramming/CStudy/ch13/"
+ "/home/ccoder/UnixProgramming/CStudy/ch12/"
+ "/home/ccoder/UnixProgramming/CStudy/ch11/"
+ "/srv/note/note-emacs/东阳光工作文档/生产管理系统/"
+ "/srv/note/note-emacs/东阳光工作文档/日常工作事项/"
+ "/home/ccoder/.emacs.d/personal/"
+ "/home/ccoder/UnixProgramming/CStudy/ch08/app/"
+ "/home/ccoder/UnixProgramming/CStudy/"
+ "/home/ccoder/UnixProgramming/CStudy/ch09/myapp-1.0/"
+ "/home/ccoder/UnixProgramming/CStudy/ch10/"
+ "/home/ccoder/.emacs.d/"
+ "/home/ccoder/"
+ "/home/ccoder/.emacs.d/modules/doc/"
+ "/home/ccoder/UnixProgramming/CStudy/ch09/"
+ "app/"
+ "/home/ccoder/UnixProgramming/CStudy/ch08/"
+ "/etc/mysql/"
+ "/home/ccoder/UnixProgramming/CStudy/ch07/"
+ "/home/ccoder/UnixProgramming/CStudy/ch06/"
+ "/home/ccoder/UnixProgramming/CStudy/ch06/app/"
+ "/home/ccoder/UnixProgramming/CStudy/ch01/"
+ "/home/ccoder/UnixProgramming/CStudy/ch03/"
+ "/home/ccoder/UnixProgramming/CStudy/ch04/"
+ "/usr/include/"
+ "/home/ccoder/UnixProgramming/CStudy/ch05/"
+ "/etc/"
+ "/home/ccoder/UnixProgramming/CStudy/ch01/src/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "pipe5.c"
+ "pipe4.c"
+ "pipe3.c"
+ "pipe2.c"
+ "pipe1.c"
+ "popen3.c"
+ "popen2.c"
+ "popen1.c"
+ "thread8.c"
+ "thread8a.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/ccoder/UnixProgramming/CStudy/ch13/" (21558 36500 864732 212000) "fifo2" "pipe4.c" "popen1.c" "popen3.c" "pipe2" "popen2" "fifo3" "pipe3.c" "pipe2.c" "pipe1.c" "client.o" "fifo4.c" "./" "fifo3.c" "fifo4" "pipe5.c" "popen4" "popen3" "fifo1" "popen2.c" "README" "popen1" "pipe5" "fifo2.c" "server.o" "app/" "fifo1.c" "client" "client.c" "server.c" "server" "pipe3" "pipe1" "pipe4" "popen4.c" "Makefile" "client.h" "../")
+
+ ("/home/ccoder/" (21558 33074 532770 722000) ".dbus/" "图片/" ".bashrc" ".profile" "公共的/" ".local/" ".gconf/" ".bash_logout" "模板/" ".recentf" ".Xauthority" "音乐/" ".bash_history" ".erc/" ".ssh/" "下载/" ".emacs.d/" "./" "UnixProgramming/" "examples.desktop" ".ido.last" ".config/" "视频/" ".mysql/" ".gnome/" ".xsession-errors" ".ICEauthority" ".globalrc" "桌面/" ".xsession-errors.old" "文档/" ".dmrc" ".gitconfig" ".compiz/" ".cache/" "MySetup/" ".mysql_history" ".pki/" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch12/" (21557 26128 782200 379000) "thread6a" "thread2" "thread7.c" "thread4.c" "thread8a.c" "thread1.c" "thread1" "thread4" "thread7" "thread3" "thread8.c" "thread2.c" "thread6" "./" "thread4c" "thread5.c" "thread8a" "makefile-explicit" "thread6.c" "thread3a" "thread3.c" "thread8" "thread6a.c" "README" "thread5" "thread3a.c" "Makefile" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch11/" (21555 62197 114586 132000) "system2" "upper" "fork2.c" "upper.c" "fork2" "ctrlc2.c" "./" "fork1.c" "useupper.c" "fork1" "alarm.c" "file.txt" "ctrlc1.c" "ctrlc1" "README" "wait.c" "useupper" "pexec" "pexec.c" "wait" "system2.c" "system1.c" "system1" "alarm" "Makefile" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/" (21472 15109 631299 47000) "检测单检测项完整性有效性检查20140628.xlsx" "需求确认 （终极版）/" "检测单完整性检测补充版2014-6-4定稿.doc" "沟通20140604（宜都董部长关于化成生产项目处理方式）-回复.docx" "成品入库单、合格证编排货架需求（6-3改）.doc" "检测单完整性检查需求分析.org" "成品入库单编排货架系统现状20140529-杨宇.doc" "5检测单完整性检测补充版2014-7-1定稿.doc" "沟通20140604（宜都董部长关于化成生产项目处理方式）.doc" "关于开发与实施协作问题沟通20140604.org" "项目工作要点2014年07月.org" "./" "7-7化成生产系统二期功能完善.rar" "NCV5监控工具使用手册.doc" "沟通20140606（宜都董部长关于化成生产项目）.docx" "沟通20140605（宜都董部长关于化成生产项目6月份工作计划）.doc" "20140730-files/" "20140604-files/" "项目工作要点2014年06第1周.org" "检测单检测项完整性有效性检查-表格.xls" "6倒箔入库单的优化4-11.doc" "检测单检测项完整性有效性检查-表格20140704-原始.xls" "批号编写规则.doc" "系统性能监控20140623.org" "D1101规格格式.docx" "项目工作要点2014年06月.org" "6-9自动编排货架(终极版).doc" "生产系统业务概念.org" "生产系统业务概念.docx" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/" (21471 40716 913687 798000) "ReadMe.txt" "ch15/" "ch05/" "ch04/" "ch01/" "ch11/" "ch16/" "ch08/" "ch12/" "ch07/" "GRTAGS" "GPATH" "./" "TAGS" "ch06/" "GTAGS" "ch03/" "ch09/" "ch10/" "ch17/" ".dir-locals.el" "ch14/" "../" "ch13/")
+
+ ("/srv/note/note-emacs/东阳光工作文档/日常工作事项/" (21434 43025 409815 904000) "当前待处理事项.org" "熊高工作交接.org" "./" "../")
+
+ ("/home/ccoder/.emacs.d/personal/" (21464 40344 464652 166000) ".gitkeep" "preload/" "./" "custom.el" "../")
+
+ ("/home/ccoder/.emacs.d/" (21464 40324 524653 115000) "sample/" "tramp" "init.elc" "elpa/" ".git/" "projectile-bookmarks.eld" "ac-comphist.dat" "utils/" "README.md" "modules/" "themes/" "CONTRIBUTING.md" "personal/" ".gitignore" "./" "prelude-modules.elc" "savefile/" "prelude-modules.el" "init.el" ".projectile" "vendor/" "auto-save-list/" "var/" "core/" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/" (21393 49675 203240 733000) "设备管理系统/" "新项目/" "NC资金项目/" "开发管理/" "./" "电子商务/" "NC应用开发框架/" "日常工作事项/" "业务员租房管理/" "精箔厂系统/" "分销系统/" "生产管理系统/" "工作规划/" "../")
+
+ ("/srv/note/note-emacs/" (21447 35728 344690 534000) ".git/" "J2EE主流架构技术/" "Centos/" "DestopComputer.org" "个人笔记本/" "Unix开发技术/" "东阳光工作文档/" "./" "WEB开发技术/" "App&DataBaseEnv.org" "DygAccount.org" "Ubuntu/" "DygIntroduction.org" "手机操作系统/" "读书心得/" "../")
+
+ ("/srv/note/" (21401 4640 560189 450000) "./" "note-emacs/" "note-evernote/" "note-onenote/" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch08/app/" (21463 54043 53788 848000) "pop_tables.sql" "app_mysql.c" "insert_data.sql" "app_mysql.h" ".gitignore" "./" "app_test.c" "app" "create_tables.sql" "Makefile" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch08/" (21450 36649 922226 97000) "insert1.c" "select2.c" "insert2.c" "connect1" "connect2" ".gitignore" "connect2.o" "connect2.c" "./" "connect1.c" "README" "app/" "select3.c" "connect1.o" "create_children.sql" "select4.c" "select1.c" "update1.c" "Makefile" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch07/" (21449 12074 962120 937000) "memory4" "dbm1" "lock3.c" "lock3" "lock1" "memory6" "dbm2.c" "lock1.c" "memory3" "lock2.c" ".gitignore" "./" "memory6.c" "memory1.c" "memory2" "lock4" "lock5" "memory5b" "memory1" "memory3.c" "lock4.c" "lock5.c" "README" "memory5b.c" "memory5a.c" "app/" "memory4.c" "memory5a" "dbm1.c" "lock2" "memory2.c" "Makefile" "dbm2" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch07/app/" (21462 25578 64123 541000) "cd_data.h" "app_ui.c" ".gitignore" "./" "access.c" "Makefile" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch09/myapp-1.0/" (21462 24085 896170 341000) "import2.c" "import1.c" "myapp.1" "3.c" "./" "c.h" "2.c" "a.h" "foo.c" "main.c" "b.h" "import3.c" "Makefile" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch10/" (21462 18931 820331 994000) "cinfo.c" "debug1" "debug0.c" "efence.c" "debug3.c" "debug0" "debug1.c" "debug3" ".gitignore" "debug2" "debug2.c" "./" "debug4.c" "checker.c" "README" "assert.c" "debug4" "Makefile" "../")
+
+ ("/home/ccoder/.emacs.d/elpa/" (21460 64852 189196 423000) "ecb-20140215.114/" "ido-ubiquitous-20140526.1306/" "grizzl-20130810.202/" "ctags-update-readme.txt" "easy-kill-20140505.343/" "zenburn-theme-20140613.207/" "yasnippet-readme.txt" "frame-fns-20131226.1849/" "expand-region-20140610.1519/" "@-readme.txt" "ace-window-20140718.152/" "guru-mode-20140103.1545/" "magit-20140720.358/" "flx-ido-20140709.1308/" "volatile-highlights-20130321.641/" "ggtags-readme.txt" "git-rebase-mode-20140605.520/" "smex-20140425.1314/" "f-20140220.21/" "logito-20120225.1255/" "popup-20140207.1702/" "geiser-20140604.2114/" "diminish-20091203.1012/" "s-20140714.707/" "ack-and-a-half-20130815.1917/" "discover-my-major-20140510.1007/" "gitconfig-mode-20140605.520/" "elisp-slime-nav-20140619.254/" "yasnippet-20140720.1534/" "flycheck-readme.txt" "ace-jump-buffer-20140508.1309/" "god-mode-20140608.252/" "pcache-20131201.1159/" "ctags-20110911.304/" "flycheck-20140719.810/" "./" "markdown-mode-20131210.700/" "anzu-20140703.2228/" "auto-complete-clang-async-readme.txt" "rainbow-mode-0.9/" "pkg-info-20140610.630/" "frame-cmds-20140419.2112/" "undo-tree-20140509.522/" "auto-complete-clang-20140409.52/" "gh-20140706.1506/" "gitignore-mode-20140605.520/" "ecb-readme.txt" "rainbow-delimiters-20140713.1131/" "gist-20140706.1503/" "move-text-20140307.1644/" "archives/" "ctags-readme.txt" "dash-20140717.547/" "company-20140719.2314/" "auto-complete-20140726.303/" "operate-on-number-20140522.430/" "diff-hl-20140621.1850/" "auto-complete-clang-readme.txt" "git-commit-mode-20140605.520/" "projectile-20140716.416/" "smartparens-20140606.1337/" "makey-20131231.630/" "browse-kill-ring-20140624.1143/" "smartrep-20140404.1714/" "ov-20140706.147/" "flx-20140630.2152/" "ace-jump-mode-20140616.115/" "epl-20140620.218/" "auto-complete-readme.txt" "../")
+
+ ("/home/ccoder/.emacs.d/elpa/ctags-20110911.304/" (21460 64851 829196 427000) "ctags.el" "ctags-autoloads.el" "ctags-pkg.el" "./" "ctags.elc" "ctags-pkg.elc" "../")
+
+ ("/home/ccoder/UnixProgramming/" (21460 32360 834913 594000) "Beginning Linux Programming_4th_code.zip" ".git/" ".gitignore" "./" "CStudy/" "gcc.pdf" "make.pdf" "emacs.pdf" "gdb.pdf.gz" "Beginning Linux Programming 4th Edition.pdf" "Shell/" "../")
+
+ ("/home/ccoder/.emacs.d/modules/doc/" (21417 40156 17047 954000) "README.md" "./" "prelude-python.md" "../")
+
+ ("/home/ccoder/.emacs.d/modules/" (21417 43627 196986 784000) "prelude-common-lisp.el" "prelude-c.el" "prelude-scss.el" "prelude-programming.el" "prelude-ido.el" "prelude-erlang.el" "doc/" "prelude-coffee.el" "prelude-org.el" "prelude-haskell.el" "prelude-perl.el" "prelude-shell.el" "./" "prelude-mediawiki.el" "prelude-evil.el" "prelude-scheme.el" "prelude-go.el" "prelude-latex.el" "prelude-lisp.el" "prelude-xml.el" "prelude-helm.el" "prelude-css.el" "prelude-emacs-lisp.el" "prelude-company.el" "prelude-ruby.el" "prelude-clojure.el" "prelude-js.el" "prelude-key-chord.el" "prelude-web.el" "prelude-python.el" "prelude-scala.el" "prelude-erc.el" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch09/" (21433 28849 637146 777000) "mylib.a" "file1" "myapp.spec" "cvs-sp/" "Makefile4" "Makefile6" "import2.c" "import1.c" "Makefile1" "main.o" "myapp.1" "3.c" "file2" "./" "c.h" "3.o" "2.c" "a.h" "README" "foo.c" "myapp-1.0/" "main.c" "Makefile5" "Makefile3" "b.h" "import3.c" "Makefile2" "important.c,v" "2.o" "Makefile" "../")
+
+ ("app/" (21416 14597 915379 112000) "pop_tables.sql" "app_mysql.c" "app_test.o" "insert_data.sql" "app_mysql.h" "./" "app_test.c" "app" "app_mysql.o" "create_tables.sql" "Makefile" "../")
+
+ ("/etc/mysql/conf.d/" (21449 8006 623344 64000) ".keepme" "./" "mysqld_safe_syslog.cnf" "../")
+
+ ("/etc/mysql/" (21449 8006 575344 65000) "conf.d/" "./" "my.cnf" "debian.cnf" "my.cnf~" "debian-start" "../")
+
+ ("/etc/" (21449 18447 33934 628000) "drirc" "menu-methods/" "doc-base/" "rc5.d/" "kerneloops.conf" "popularity-contest.conf" "vim/" "python3.4/" "ufw/" "gnome/" "compizconfig/" "wgetrc" "xul-ext/" "ldap/" "bash.bashrc" "localtime" "logrotate.d/" "X11/" "libreoffice/" "ODBCDataSources/" "dhcp/" "skel/" "pki/" "udisks2/" "cron.daily/" "python2.7/" "gnome-app-install/" "brltty.conf" "ts.conf" "UPower/" "newt/" "upstart-xsessions" "security/" "ld.so.conf.d/" "hp/" "obex-data-server/" "rc2.d/" "lightdm/" "libnl-3/" ".java/" "subuid" "login.defs" "cron.hourly/" "fstab" "firefox/" "hosts" "gnome-settings-daemon/" "terminfo/" "sudoers" "samba/" "hosts.deny" "bindresvport.blacklist" "sensors3.conf" "mtab.fuselock" "sgml/" "rcS.d/" "blkid.tab" "rc4.d/" "inputrc" "dconf/" "os-release" "issue" "authbind/" "cron.d/" "signon-ui/" "locale.alias" "netscsid.conf" "modules" "clutter-imcontext/" "cupshelpers/" "cups/" "xdg/" "profile" "subgid" "menu/" "ltrace.conf" "resolv.conf" "apg.conf" "apache2/" "rsyslog.conf" "chatscripts/" "insserv.conf" "mailcap" "bash_completion.d/" "groff/" "hosts~" "apparmor.d/" "emacs/" "thunderbird/" "ca-certificates/" "dpkg/" "iproute2/" "pam.d/" "console-setup/" "magic.mime" "initramfs-tools/" "cracklib/" "subuid-" "debconf.conf" "zsh_command_not_found" "rpc" "pam.conf" "group-" "update-notifier/" "gnome-vfs-2.0/" "rc.local~" "updatedb.conf" "sound/" "colord.conf" "nsswitch.conf" "network/" "libaudit.conf" "ImageMagick/" "anacrontab" "sane.d/" "update-motd.d/" "aptdaemon/" "crontab" "libpaper.d/" "selinux/" "mtools.conf" "bash_completion" "ghostscript/" "rarfiles.lst" "shadow" "shells" "init.d/" "gconf/" "python/" "pcmcia/" "signond.conf" "rc0.d/" "manpath.config" "bluetooth/" "ConsoleKit/" "hosts.allow" "ca-certificates.conf" "sysctl.conf" "init/" "gufw/" "protocols" "lintianrc" "emacs24/" "host.conf" "insserv.conf.d/" "logrotate.conf" "opt/" "su-to-rootrc" "ssl/" "rc1.d/" "apm/" "rsyslog.d/" "pm/" "profile.d/" "dictionaries-common/" "depmod.d/" "securetty" "kbd/" "dnsmasq.d/" "ucf.conf" "NetworkManager/" "cron.weekly/" "brlapi.key" "blkid.conf" "ssh/" "alternatives/" "usb_modeswitch.d/" "apparmor/" "mono/" "gai.conf" "avahi/" "subversion/" "rmt" "apport/" "kernel/" "subgid-" "cron.monthly/" "dbus-1/" "deluser.conf" "mailcap.order" "xml/" "odbc.ini" "tomcat7/" "environment" "default/" "fuse.conf" "mke2fs.conf" "sudoers.d/" "mtab" "ifplugd/" "group" "acpi/" "issue.net" "speech-dispatcher/" "odbcinst.ini" "passwd" "mysql/" "ppp/" "hdparm.conf" "mime.types" "perl/" "fonts/" "wpa_supplicant/" "adduser.conf" "bonobo-activation/" "papersize" "services" "pnm2ppa.conf" "debian_version" "ld.so.conf" "environment~" "kernel-img.conf" "systemd/" "wodim.conf" "python3/" "modprobe.d/" "lsb-release" "gshadow" "rc6.d/" "nanorc" "usb_modeswitch.conf" "legal" "sysctl.d/" "update-manager/" "sensors.d/" "polkit-1/" "at-spi2/" "pulse/" "networks" "chromium-browser/" "shadow-" "brltty/" "modules-load.d/" "vtrgb" "gdb/" "timezone" "fstab.d/" "rc.local" "calendar/" "passwd-" "gtk-2.0/" ".pwd.lock" "apt/" "hostname~" "udev/" "hostname" "grub.d/" "insserv/" "logcheck/" "gtk-3.0/" "resolvconf/" "rc3.d/" "ld.so.cache" "magic" "gshadow-" "../" "./")
+
+ ("/srv/" (21401 4609 912189 991000) "technology/" "project/" "private/" "./" "note/" "book/" "work/" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch06/app/" (21446 44264 108716 357000) "tracks.cdb" "./" "title.cdb" "curses_app.o" "curses_app" "curses_app.c" "Makefile" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch06/" (21446 39512 412769 763000) "color" "keypad.o" "color.c" "keypad" "multiw1.c" "pad.c" "keypad.c" "./" "subscl.o" "README" "pad" "moveadd.c" "subscl" "app/" "screen1.c" "pad.o" "ipmode.c" "color.o" "Makefile" "subscl.c" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch01/" (21445 19189 655639 402000) "fred.c" "program" "lib.h" "hello" "program.c" "hello.o" "makefile" ".gitignore" "./" "bill.c" "bill.o" "fred.o" "libxixi.a" "program.o" "../" "hello.c")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch03/" (21445 19171 275640 135000) "draft1.txt" "simple_read.c" "printdir.c" "mmap" "copy_stdio.c" "mmap.c" "printdir2" ".gitignore" "copy_system.c" "./" "simple_write" "copy_block" "printdir" "README" "copy_stdio" "file.in" "copy_block.c" "draft2.txt" "printdir2.c" "records.dat" "file.out" "Makefile" "copy_system" "simple_write.c" "simple_read" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch04/" (21445 19056 127644 727000) "hostget" "tmpnam.c" "showenv" "longopt.c" "environ" "user" "logmask.c" "hostget.c" "envtime.c" "tmpnam" ".gitignore" "longopt" "args.c" "strftime" "./" "ctime.c" "environ.c" "syslog.c" "argopt.c" "argopt" "gmtime" "envtime" "logmask" "showenv.c" "user.c" "args" "ctime" "README" "limits.c" "gmtime.c" "limits" "strftime.c" "syslog" "Makefile" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch05/" (21436 14240 913834 985000) "save_stty" "kbhit.c" "menu1" "menu3" "password" "sizeterm.c" "menu3.c" ".gitignore" "menu1.c" "./" "menu4" "badterm.c" "menu4.c" "README" "password.c" "menu2" "menu5.c" "menu2.c" "Makefile" "../")
+
+ ("/usr/include/" (21445 11334 98704 426000) "llvm-c-3.4/" "pty.h" "endian.h" "strings.h" "cursesapp.h" "getopt.h" "uchar.h" "utime.h" "netrom/" "execinfo.h" "termios.h" "libintl.h" "X11/" "neteconet/" "menu.h" "memory.h" "ucontext.h" "mcheck.h" "signal.h" "gconv.h" "python2.7/" "inttypes.h" "pcmanfm-modules.h" "wchar.h" "iconv.h" "cursesp.h" "ncurses_dll.h" "libio.h" "link.h" "ttyent.h" "cpio.h" "sudo_plugin.h" "cursesf.h" "fnmatch.h" "nl_types.h" "gshadow.h" "gettext-po.h" "netatalk/" "sysexits.h" "stropts.h" "locale.h" "eti.h" "ifaddrs.h" "curses.h" "xen/" "ctype.h" "error.h" "stdio_ext.h" "cursesm.h" "dlg_colors.h" "netax25/" "rpcsvc/" "nc_tparm.h" "stdc-predef.h" "netiucv/" "alloca.h" "paths.h" "etip.h" "fstab.h" "setjmp.h" "tar.h" "argz.h" "linux/" "semaphore.h" "utmpx.h" "regex.h" "time.h" "spawn.h" "rpc/" "stab.h" "dlg_keys.h" "aio.h" "lastlog.h" "values.h" "ustat.h" "geany/" "byteswap.h" "sound/" "obstack.h" "expat_external.h" "string.h" "./" "cursslk.h" "elf.h" "dbus-1.0/" "search.h" "dialog.h" "syscall.h" "xorg/" "unistd.h" "term_entry.h" "malloc.h" "scsi/" "crypt.h" "re_comp.h" "errno.h" "protocols/" "stdio.h" "ulimit.h" "clang/" "nautilus-sendto/" "syslog.h" "err.h" "tgmath.h" "term.h" "envz.h" "limits.h" "mqueue.h" "x86_64-linux-gnu/" "uapi/" "stdint.h" "fmtmsg.h" "llvm-3.4/" "grp.h" "sgtty.h" "arpa/" "monetary.h" "net/" "expat.h" "nfs/" "langinfo.h" "stdlib.h" "rdma/" "netpacket/" "c++/" "complex.h" "netash/" "drm/" "cursesw.h" "glob.h" "libgen.h" "fcntl.h" "_G_config.h" "shadow.h" "dirent.h" "resolv.h" "mntent.h" "netipx/" "fts.h" "argp.h" "dlfcn.h" "pwd.h" "wait.h" "ncurses.h" "wordexp.h" "poll.h" "regexp.h" "asm-generic/" "gnu-versions.h" "aliases.h" "nss.h" "netrose/" "fenv.h" "video/" "mtd/" "thread_db.h" "netdb.h" "netinet/" "dlg_config.h" "assert.h" "printf.h" "termio.h" "ar.h" "unctrl.h" "wctype.h" "ftw.h" "utmp.h" "xlocale.h" "form.h" "math.h" "pthread.h" "autosprintf.h" "sched.h" "tic.h" "features.h" "panel.h" "termcap.h" "../")
+
+ ("/usr/" (21327 11412 0 0) "games/" "src/" "local/" "lib/" "./" "include/" "bin/" "sbin/" "share/" "../")
+
+ ("/usr/share/info/emacs-24/" (21372 2261 163127 911000) "ada-mode.info.gz" "calc.info.gz" "bovine.info.gz" "gnus.info.gz" "htmlfontify.info.gz" "rcirc.info.gz" "cl.info.gz" "emacs.info.gz" "org.info.gz" "dired-x.info.gz" "erc.info.gz" "url.info.gz" "sieve.info.gz" "emacs-gnutls.info.gz" "nxml-mode.info.gz" "ediff.info.gz" "ert.info.gz" "srecode.info.gz" "idlwave.info.gz" "forms.info.gz" "eudc.info.gz" "eshell.info.gz" "efaq.info.gz" "speedbar.info.gz" "viper.info.gz" "sasl.info.gz" "semantic.info.gz" "./" "reftex.info.gz" "edt.info.gz" "dbus.info.gz" "smtpmail.info.gz" "message.info.gz" "woman.info.gz" "info.info.gz" "ses.info.gz" "eieio.info.gz" "mh-e.info.gz" "newsticker.info.gz" "auth.info.gz" "ede.info.gz" "wisent.info.gz" "eintr.info.gz" "ebrowse.info.gz" "tramp.info.gz" "pgg.info.gz" "remember.info.gz" "flymake.info.gz" "epa.info.gz" "pcl-cvs.info.gz" "emacs-mime.info.gz" "vip.info.gz" "autotype.info.gz" "elisp.info.gz" "sc.info.gz" "mairix-el.info.gz" "ccmode.info.gz" "widget.info.gz" "../")
+
+ ("/home/ccoder/UnixProgramming/CStudy/ch01/src/" (21418 51920 961725 783000) "fred.c" "lib.h" "program.c" "makefile" "./" "bill.c" "../" "hello.c")
+
+ ("/home/ccoder/.emacs.d/core/" (21417 40156 17047 954000) "prelude-editor.el" "prelude-ui.el" "prelude-mode.el" "prelude-core.el" "./" "prelude-packages.el" "prelude-global-keybindings.el" "prelude-osx.el" "prelude-custom.el" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
